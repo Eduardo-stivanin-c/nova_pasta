@@ -1,2 +1,2 @@
-# 7days-of-code
-7 Days of code de Alura
+# sistema-de-cadastro
+sistema-de-cadastro de Alura
